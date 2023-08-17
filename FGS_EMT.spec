@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['/Users/mohsenbakr/PycharmProjects/pythonProject/FGS_EMT.py'],
+    ['FGS_EMT.py'],
     pathex=[],
     binaries=[],
     datas=[],
